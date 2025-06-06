@@ -38,7 +38,7 @@ Flow:
   Build a simple neural network on MNIST dataset (optional/bonus)
 
   Project Ideas:
-  Predict house prices
-  Customer churn prediction
-  Email spam detection
-  Sentiment analysis on tweets
+  Predict house prices : https://github.com/KanishqGarg/House_price-prediction
+  Customer churn prediction : https://github.com/KanishqGarg/Customer_Churn_Detection
+  Email spam detection : https://github.com/KanishqGarg/Email_Fraud_Detection
+  Sentiment analysis on tweets  : https://github.com/KanishqGarg/Tweet_sentiment_analysis
