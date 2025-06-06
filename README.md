@@ -48,5 +48,8 @@ Flow:
 
   ChatBot using Intent Mapping: https://github.com/KanishqGarg/Chatbot_Intent
   used logistic regression to Map questions to tags and then responses accordingly from the intent file
+  
   NLP : preprocessed text using TextBlob nltk and spacy libraries to correct spelling remove punctuations ,lemmantization and stemming, Tokenised text into sentences and words, Performed Sentiment analysis using   libraries like VaderSentiment, TextBlob, sentiment analyzer, Made a text summarizer model using pytestrank library, also performed NER(Name entity Recognition) using spacy 
   Made a text parapharsing detector using Spacy text similarity function, all-MiniLM-L6-v2 Sentence transformer preprocessed using TextBlob nltk and spacy 
+
+  LLMs: Made a character identity ChatBot user can input a book pdf and a character he wants the bot to chat like and bot responds to questions according: Made using langchain with gemini API used chroma vectorbase and vectorized book pdf and using word embedding embedded it into vector base and then implemented RAG (retrival augumented generation) on the pre trained LLM 
