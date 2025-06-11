@@ -59,4 +59,5 @@ Flow:
   Made an object detection model using Yolo5s and made a face detection model using a cascade classifier using a pre-trained model. Also made a face detection model by extracting HOG features and training it using a Neural Network
 Implemented a Speech transcription and TTS generation model using speechrecognition and gTTS libraries
 
+Made a real time voice translation using speechrecognition gTTS and googletrans libraries : https://github.com/KanishqGarg/Real-time-voice-translation
 Built a face expression/emotion detection model using FER and OpenCV library from a image as well as a video input
