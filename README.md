@@ -60,4 +60,9 @@ Flow:
 Implemented a Speech transcription and TTS generation model using speechrecognition and gTTS libraries
 
 Made a real time voice translation using speechrecognition gTTS and googletrans libraries : https://github.com/KanishqGarg/Real-time-voice-translation
+
 Built a face expression/emotion detection model using FER and OpenCV library from a image as well as a video input
+
+Implemented a basic MCP (Model Context Protocol) for data extraction using FastMCP library 
+
+Studied about Google's Agent to Agent protocol
